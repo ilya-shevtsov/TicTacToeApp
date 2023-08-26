@@ -1,4 +1,4 @@
-# TicTacToeApp
+# Tic Tac Toe App
 This is a Tic Tac Toe App. The project is written using: WebSockets, Dagger Hilt, Kotlin Coroutines & Flow and Compose. 
 
 Here is a link to the Ktor Backend for this project: [Backend](https://github.com/ilya-shevtsov/TicTacToeAppBackend)
