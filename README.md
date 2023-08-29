@@ -7,4 +7,4 @@ Here is a link to the Ktor Backend for this project: [Backend](https://github.co
 
 # Demonstration
 
-<img src="REAMMEImages/videodemonstration.gif" width="1000">
+<img src="READMEImages/videodemonstration.gif" width="1000">
